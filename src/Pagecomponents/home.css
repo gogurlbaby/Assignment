@@ -63,7 +63,7 @@
     align-items: center;
     height: 300px;
     width: 320px;
-    margin-top: 80px;
+    margin-top: 50px;
     flex-direction: column;
     margin-left: 100px;
     color:  #9c0037;
@@ -110,7 +110,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 40px;
+    margin-top: 30px;
+    margin-right: 20px;
     color: whitesmoke;
     font-weight: 10px;
     font-size: 18px;
@@ -122,7 +123,6 @@
     align-items: center;
     justify-content: center;
     margin-top: 30px;
-    margin-left: 100;
     color: whitesmoke;
     font-weight: 10px;
     font-size: 18px;
@@ -135,6 +135,7 @@
     justify-content: center;
     margin-top: 30px;
     margin-left: 100;
+    margin-right: 50px;
     color: whitesmoke;
     font-weight: 10px;
     font-size: 18px;

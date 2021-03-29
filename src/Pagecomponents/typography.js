@@ -7,7 +7,9 @@ function Typography(props) {
                     display:"flex",
                     justifyContent:"center",
                     alignContent:"center",
-                    alignItems:"center"}}>
+                    alignItems:"center",
+                    marginLeft: 100
+                    }}>
                     {props.text}
         </p>
     )
